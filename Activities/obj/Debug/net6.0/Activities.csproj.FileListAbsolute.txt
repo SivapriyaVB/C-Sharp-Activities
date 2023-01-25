@@ -1,0 +1,15 @@
+C:\Users\sivapriya.vb\source\repos\Activities\Activities\bin\Debug\net6.0\Activities.exe
+C:\Users\sivapriya.vb\source\repos\Activities\Activities\bin\Debug\net6.0\Activities.deps.json
+C:\Users\sivapriya.vb\source\repos\Activities\Activities\bin\Debug\net6.0\Activities.runtimeconfig.json
+C:\Users\sivapriya.vb\source\repos\Activities\Activities\bin\Debug\net6.0\Activities.dll
+C:\Users\sivapriya.vb\source\repos\Activities\Activities\bin\Debug\net6.0\Activities.pdb
+C:\Users\sivapriya.vb\source\repos\Activities\Activities\obj\Debug\net6.0\Activities.csproj.AssemblyReference.cache
+C:\Users\sivapriya.vb\source\repos\Activities\Activities\obj\Debug\net6.0\Activities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sivapriya.vb\source\repos\Activities\Activities\obj\Debug\net6.0\Activities.AssemblyInfoInputs.cache
+C:\Users\sivapriya.vb\source\repos\Activities\Activities\obj\Debug\net6.0\Activities.AssemblyInfo.cs
+C:\Users\sivapriya.vb\source\repos\Activities\Activities\obj\Debug\net6.0\Activities.csproj.CoreCompileInputs.cache
+C:\Users\sivapriya.vb\source\repos\Activities\Activities\obj\Debug\net6.0\Activities.dll
+C:\Users\sivapriya.vb\source\repos\Activities\Activities\obj\Debug\net6.0\refint\Activities.dll
+C:\Users\sivapriya.vb\source\repos\Activities\Activities\obj\Debug\net6.0\Activities.pdb
+C:\Users\sivapriya.vb\source\repos\Activities\Activities\obj\Debug\net6.0\Activities.genruntimeconfig.cache
+C:\Users\sivapriya.vb\source\repos\Activities\Activities\obj\Debug\net6.0\ref\Activities.dll
